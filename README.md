@@ -1,1 +1,1 @@
-# Time_Table_Management-_Using_GenAI
+# Time_Table_Management_Using_GenAI
