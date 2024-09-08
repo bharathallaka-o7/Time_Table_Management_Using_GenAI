@@ -15,7 +15,7 @@ def excel_to_sqlite(excel_file, db_file, table_name):
     print(f"Data from {excel_file} has been written to {db_file} in table {table_name}")
 
 # Example usage
-excel_file = "/home/mukesh/Github-my repos/Mini projet/Time_Table_Management_Using_GenAI/Data/CSE_only_periods.xlsx"
+excel_file = "Data/CSE_only_periods.xlsx"
 db_file = 'timetable.db'
 table_name = 'timetable'
 
