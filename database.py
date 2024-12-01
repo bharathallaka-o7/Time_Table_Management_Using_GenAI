@@ -14,9 +14,7 @@ def excel_to_sqlite(excel_file, db_file, table_name):
     
     print(f"Data from {excel_file} has been written to {db_file} in table {table_name}")
 
-# Example usage
-excel_file = "CSE_faculty_formatted.xlsx"
-db_file = 'faculty.db'
-table_name = 'faculty'
-
+excel_file = "period_schedule.xlsx"
+db_file = 'timings.db'  # SQLite database file
+table_name = 'timings'
 excel_to_sqlite(excel_file, db_file, table_name)
