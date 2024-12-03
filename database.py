@@ -22,7 +22,7 @@ BRANCH_CONFIG = {
     "ECE": {
         "excel_files": {
             "timetable": "ECE_Timetable.xlsx",
-            "faculty": "ece.xlsx",
+            "faculty": "formatted_ece.xlsx",
             "timings": "period_schedule.xlsx",
         },
         "databases": {
@@ -33,7 +33,7 @@ BRANCH_CONFIG = {
     },
     "MECH": {
         "excel_files": {
-            "timetable":"MechTimeTable.xlsx" ,
+            "timetable":"MechtimeTable.xlsx" ,
             "faculty": "MECH.xlsx",  # Faculty data not provided
             "timings": "period_schedule.xlsx",
         },
@@ -46,7 +46,7 @@ BRANCH_CONFIG = {
     "EEE": {
         "excel_files": {
             "timetable": "EEE_only_periods.xlsx",
-            "faculty": "EEE1.xlsx",
+            "faculty": "formatted_eee.xlsx",
             "timings": "period_schedule.xlsx",
         },
         "databases": {
